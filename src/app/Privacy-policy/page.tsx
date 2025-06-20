@@ -84,7 +84,7 @@ export default function PrivacyPolicy() {
                 <h2 className="text-xl md:text-2xl font-medium text-muted-foreground">8. Contact Us</h2>
                 <p>
                     If you have any questions or concerns about this Privacy Policy or the data we collect, please
-                    contact us at souhailbenlhachemi1999@gmail.com.
+                    contact us at subhanshujha001@gmail.com.
                 </p>
             </div>
 
