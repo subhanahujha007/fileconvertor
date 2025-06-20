@@ -52,7 +52,7 @@ About
 </div>
 <div className='flex flex-row gap-4'>
 <ModeToggle/>
-<Link href="https://github.com/subhanahujha007/">
+<Link href="https://github.com/subhanahujha007/fileconvertor">
 <Button className='bg-orange-700 text-white items-center rounded-full w-fit hidden md:flex'
 size={"lg"}>
 Go to Repo 
