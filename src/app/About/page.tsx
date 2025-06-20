@@ -10,7 +10,7 @@ export default function About() {
               <h2 className="text-xl md:text-2xl font-medium text-muted-foreground">🖼️ Image Conversion:</h2>
               <p>
                   Unleash your creativity with our image conversion tool. Whether you need to resize, crop, rotate, or
-                  convert formats, we've got you covered. From JPEG to PNG, and everything in between, effortlessly
+                  convert formats, we &apos;ve got you covered. From JPEG to PNG, and everything in between, effortlessly
                   enhance your visual content.
               </p>
           </div>
@@ -38,7 +38,7 @@ export default function About() {
               </h2>
               <p>
                   Unlike other services, we believe in empowering your creativity without hidden fees or restrictions.
-                  You can convert as many images, audio files, and videos as your heart desires, and it won't cost you a
+                  You can convert as many images, audio files, and videos as your heart desires, and it won&apos;t cost you a
                   dime.
               </p>
           </div>
@@ -46,7 +46,7 @@ export default function About() {
           <div className="space-y-2">
               <h2 className="text-xl md:text-2xl font-medium text-muted-foreground">🌐 Accessible Anywhere:</h2>
               <p>
-                  Access File Convertor from any device with an internet connection. Whether you're on your computer, tablet,
+                  Access File Convertor from any device with an internet connection. Whether you&apos;re on your computer, tablet,
                   or smartphone, you can use our platform with ease.
               </p>
           </div>
@@ -70,14 +70,14 @@ export default function About() {
           <div className="space-y-2">
               <h2 className="text-xl md:text-2xl font-medium text-muted-foreground">📈 Constantly Evolving:</h2>
               <p>
-                  We're committed to staying ahead of the curve. Expect regular updates and new features to keep your
+                  We&apos;re committed to staying ahead of the curve. Expect regular updates and new features to keep your
                   multimedia experience fresh and exciting.
               </p>
           </div>
 
           <div className="space-y-2">
               <h2 className="text-xl md:text-2xl font-medium text-muted-foreground">
-                  🌟 It's Free, It's Powerful, It's File Convertor:
+                  🌟 It&apos;s Free, It&apos;s Powerful, It&apos;s File Convertor:
               </h2>
               <p>
                   Experience the freedom to convert images, audio, and video without boundaries. Elevate your multimedia

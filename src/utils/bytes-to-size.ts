@@ -1,4 +1,4 @@
-export default function bytesToSize(bytes: number): String {
+export default function bytesToSize(bytes: number): string {
   const sizes = ['Bytes', 'KB', 'MB', 'GB', 'TB'];
 
   if (bytes === 0) return '0 Byte';

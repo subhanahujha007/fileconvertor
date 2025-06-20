@@ -5,9 +5,8 @@ import {GrMenu} from "react-icons/gr"
 import Link from 'next/link'
 import {
     Sheet,
-    SheetClose,
     SheetContent,SheetDescription,
-    SheetFooter,SheetHeader,
+    SheetHeader,
     SheetTitle,
     SheetTrigger
 }

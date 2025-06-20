@@ -24,7 +24,7 @@ export default function PrivacyPolicy() {
                 </h2>
                 <p>
                     We use the information collected through Google Analytics solely for the purpose of understanding
-                    user behavior and improving our website's performance. We do not sell, rent, or share this
+                    user behavior and improving our website&apos;s performance. We do not sell, rent, or share this
                     information with third parties.
                 </p>
             </div>
@@ -60,7 +60,7 @@ export default function PrivacyPolicy() {
             </div>
 
             <div className="space-y-2">
-                <h2 className="text-xl md:text-2xl font-medium text-muted-foreground">6. Children's Privacy</h2>
+                <h2 className="text-xl md:text-2xl font-medium text-muted-foreground">6. Children&apos;s Privacy</h2>
                 <p>
                     Our website is not intended for children under the age of 13. We do not knowingly collect personal
                     information from children. If you are a parent or guardian and believe that your child has provided

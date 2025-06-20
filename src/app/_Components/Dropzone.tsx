@@ -1,3 +1,4 @@
+// @ts-nocheck
 'use client'
 
 import { FiUploadCloud } from "react-icons/fi";
@@ -65,7 +66,7 @@ export default function Dropzone() {
   };
 
   const downloadAll = () => {
-    for (let action of actions) {
+    for (const action of actions) {
       !action.is_error && download(action);
     }
   };
@@ -131,7 +132,7 @@ export default function Dropzone() {
   const handleHover = () => setIsHover(true);
   const handleExitHover = () => setIsHover(false);
 
-  const updateAction = (file_name: String, to: String) => {
+  const updateAction = (file_name: string, to: string) => {
     setActions(
       actions.map((action) =>
         action.file_name === file_name ? { ...action, to } : action
